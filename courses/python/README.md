@@ -13,7 +13,7 @@ This course is designed for students who want to learn Python programming langua
 ## Contents 
 
 - [Step 1 - Introduction](01-Introduction.md)
-- [Step 2 - Colection and Control Flows](02-Lists-Tuples-Sets-Dictionaries-ControlFlows-Strings.md)
+- [Step 2 - Collection and Control Flows](02-Lists-Tuples-Sets-Dictionaries-ControlFlows-Strings.md)
 - [Step 3 - Scopes and Classes](03-Functions-Modules-Scopes-Classes.md)
 - [Step 4 - Files and Exceptions](04-FileSystem-ReadAndWriteFiles-Exceptions.md)
 - [Step 5 - Numpy](05-Numpy.md)
